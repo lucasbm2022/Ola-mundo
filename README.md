@@ -1,2 +1,3 @@
-# Ola mundo
- Primeiro repositorio versionado
+# Olá, mundo! 👦🏽
+ Primeiro repositório versionado.
+Repositório criado para testes.
